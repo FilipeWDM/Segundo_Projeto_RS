@@ -1,0 +1,51 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+main{
+    width: 626px;
+   
+    margin: auto;
+    text-align: center;
+}
+
+main img{
+    width: 350px;
+    height: 238px;
+}
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+}
+
+h1 span{
+    color: #EE24FF;
+}
+
+main p{
+    font-size: 15px;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 95px;
+}
+
+footer a  + a{
+    margin-left: 28px;
+}
+
+footer a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer img{
+    height: 90px;
+    bottom: 0px;
+    position: fixed;
+    left: 0px;
+    width: 100%;
+    
+}
